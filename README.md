@@ -41,6 +41,7 @@ spring:
      username: XXX
      password: XXX
 ```
+pom.xml
 ```
     <dependency>
       <groupId>org.postgresql</groupId>
