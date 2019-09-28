@@ -41,3 +41,10 @@ spring:
      username: XXX
      password: XXX
 ```
+```
+    <dependency>
+      <groupId>org.postgresql</groupId>
+      <artifactId>postgresql</artifactId>
+      <version>42.2.5</version>
+    </dependency>
+```
